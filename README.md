@@ -1,7 +1,7 @@
 ### Hi there 👋,I am Adityaa
 
 
-<!-- **AdityyaX/AdityyaX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<!-- **AdityyaX/AdityyaX** is a ✨ special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <!-- 
 Here are some ideas to get you started: -->
 
