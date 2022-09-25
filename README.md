@@ -41,7 +41,7 @@ Here are some ideas to get you started: -->
 ![C](https://img.shields.io/badge/-C-007ACC?style=flat-square&logo=c)
 <!-- ![Dart](https://img.shields.io/badge/-Dart-007ACC?style=flat-square&logo=Dart) -->
 
-## 💰 Support
+<!-- ## 💰 Support
 <p>
 <a href='https://www.buymeacoffee.com/devanshu21p' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' border='0' alt='Support Kaiwalya on buymecoffee' /></a>
-</p>
+</p> -->
