@@ -30,8 +30,18 @@ Here are some ideas to get you started: -->
 
 ### Language :
 
+
+
+![C](https://img.shields.io/badge/-C-007ACC?style=flat-square&logo=c)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-
+![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=Java)
 ![C](https://img.shields.io/badge/-C-007ACC?style=flat-square&logo=c)
+<!-- ![Dart](https://img.shields.io/badge/-Dart-007ACC?style=flat-square&logo=Dart) -->
+
+## 💰 Support
+<p>
+<a href='https://www.buymeacoffee.com/devanshu21p' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' border='0' alt='Support Kaiwalya on buymecoffee' /></a>
+</p>
