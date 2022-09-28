@@ -1,4 +1,4 @@
-### Hi there 👋,I am Adityaa
+### Hi there ... 👋,I am Aditya Pachauri
 
 
 <!-- **AdityyaX/AdityyaX** is a ✨ special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
