@@ -5,7 +5,7 @@
 <!-- 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on Trippin'
+- 🔭 I’m currently working on e-Chikitsak
 - 🌱 I’m currently learning Javascipt
 
 
