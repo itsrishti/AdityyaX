@@ -6,7 +6,7 @@
 Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on e-Chikitsak
-- 🌱 I’m currently learning Javascipt
+- 🌱 I’m currently learning Node JS
 
 
 - 💬 Ask me about js
